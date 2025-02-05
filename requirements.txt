@@ -2,3 +2,12 @@ pandas
 jupyter
 ipykernel
 matplotlib
+seaborn
+spacy
+transformers
+torch
+scikit-learn
+sentencepiece
+datasets
+accelerate>=0.26.0
+evaluate
