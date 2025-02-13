@@ -1,5 +1,5 @@
 notes.txt
-data/
 env_textmine/
 results/
-camembert-relation-extraction/
+saved_models/
+tmp.txt
